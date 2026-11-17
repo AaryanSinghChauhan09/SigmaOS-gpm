@@ -3,7 +3,7 @@ name = "SigmaOS-gpm"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gpm component"
+description = "SigmaOS SigmaOS-gpm component"
 upstream = []
 
 [contract]
